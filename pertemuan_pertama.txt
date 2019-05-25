@@ -8,6 +8,6 @@ b.git add . /git add /folder/nama file
 c.git commit untuk memasukan file ke refo
 	-m "message/title:perubahan"
 	bisa juga langsung :
-	$ git commite -ad "isi pesan"
+	$ git commite -am "isi pesan"
 d. git status mengecek status
 e. git log mengecek alur refo kita
