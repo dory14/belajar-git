@@ -1,6 +1,7 @@
 ini belajar git
 ==========================================
-1.pertemuan pertama
+1.pwd untuk melihat di folder apa kita
+2.pertemuan pertama
 
 a.git init untuk memulai git
 b.git add . /git add /folder/nama file 
