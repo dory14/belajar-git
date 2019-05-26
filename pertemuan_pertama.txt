@@ -13,3 +13,4 @@ c.git commit untuk memasukan file ke refo
 	$ git commite -am "isi pesan"
 d. git status mengecek status
 e. git log mengecek alur refo kita
+f. git config --global user.name/user.email
