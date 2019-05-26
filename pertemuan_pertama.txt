@@ -1,6 +1,7 @@
 ini belajar git
 ==========================================
 1.pwd untuk melihat di folder apa kita
+1.1. ls seperti dir di cmd
 2.pertemuan pertama
 
 a.git init untuk memulai git
