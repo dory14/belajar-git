@@ -1,0 +1,14 @@
+pertemuan 2
+==============
+0. pwd
+1. $ git init
+2. $ git add <file (s)>
+3. $ git status
+4. $ git commit
+	jika lupa nulis title ketik"<esc>->:q!"
+5. $ git config
+6. $ git branch
+7. $ git help 
+8. $ git config --global user.name
+   $ git config --global user.email
+   untuk memasukan ntar di github 

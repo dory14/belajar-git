@@ -14,3 +14,4 @@ c.git commit untuk memasukan file ke refo
 d. git status mengecek status
 e. git log mengecek alur refo kita
 f. git config --global user.name/user.email
+	untuk memasukan ntar di github 
