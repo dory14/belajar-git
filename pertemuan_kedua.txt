@@ -11,4 +11,9 @@ pertemuan 2
 7. $ git help 
 8. $ git config --global user.name
    $ git config --global user.email
-   untuk memasukan ntar di github 
+9. $ git log (histori git kita)
+   $ git log -3 (histori 3 terakhir)
+   $ git -- <file (s)> (histori file di git)
+10. $ git checkout untuk mengembalikan file yang dihapus atau di update ke keadaan yang di inginkan
+    $ git checkout 5 digit pertama dari commit hash untuk kembali ke keaadan yg kita inginkan
+    $ git checkout 5 digit -- <file (s)> mengembalikan ke keaadan file saja
