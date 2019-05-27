@@ -19,7 +19,9 @@ pertemuan 2
     $ git config --local user.name
     $ git config --local user.email
     untuk local atau satu repo saja
-
+    ==============================================================================================
+    $ git config --list
+    untuk melihat detail list
 11. $ git branch
 ==================================================================================================
     $ git branch untuk menampilkan branch apa saja
@@ -76,3 +78,9 @@ untuk mengcloning repo ke local
 	$ git remote add origin/nama master yang kita inginkan http/ssh link git
 	$ git remote melihat branch di web git
 	$ git remote -v untuk melihat data lebih detail
+21. git fecth
+===============================================================================================================
+	untuk mengecek sampai mana repo di github/remote
+22. git pull
+===============================================================================================================
+	mengambil data file yang konflik
