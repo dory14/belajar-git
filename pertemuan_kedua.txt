@@ -27,8 +27,8 @@ pertemuan 2
     $ git log --all --decorate --oneline --graph untuk melihat flow branch dengan graph
 13. $ git alias
 ==================================================================================================
-    $ git alias untuk mengalias kode atau string
-	$ git alias <nama alias>="<kode yang mau di alisasi>"
+    $  alias untuk mengalias kode atau string
+	$  alias <nama alias>="<kode yang mau di alisasi>"
 14.	$ git checkout
 ===================================================================================================
 	$ git checkout <nama branch> untuk masuk ke branch yang kita inginkan
