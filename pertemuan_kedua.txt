@@ -42,3 +42,13 @@ pertemuan 2
 	2. three-way merge
 	======================================================================================================
 	$ git merge <nama branch> untuk menggabungkan perubahan di branch
+16. mengapus branch
+===========================================================================================================
+	$ git branch -d <nama banch> untuk menghapus branch yang udah di merge
+	$ git branch -D <nama branch> untuk menghapus branch apapun
+17. melihat branch yang udah di merge
+===========================================================================================================
+    $ git branch --merged 
+18. jika masuk ke vim saat di merge
+===========================================================================================================
+ketik esc : wq!
