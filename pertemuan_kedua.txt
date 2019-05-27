@@ -38,3 +38,7 @@ pertemuan 2
     $ git checkout 5 digit -- <file (s)> mengembalikan ke keaadan file saja
 15. $ git merge
 ====================================================================================================
+	1. fast forward marge direct fast langsung di merge tanpa ada hambatan karena berda di alur langsung
+	2. three-way merge
+	======================================================================================================
+	$ git merge <nama branch> untuk menggabungkan perubahan di branch
