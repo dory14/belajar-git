@@ -1,25 +1,40 @@
 pertemuan 2
 ==============
-0. pwd
-1. $ git init
-2. $ git add <file (s)>
-3. $ git status
-4. $ git commit
-	jika lupa nulis title ketik"<esc>->:q!"
-5. $ git config
-6. $ git branch
-7. $ git help 
-8. $ git config --global user.name
-   $ git config --global user.email
-9. $ git checkout untuk mengembalikan file yang dihapus atau di update ke keadaan yang di inginkan
-    $ git checkout 5 digit pertama dari commit hash untuk kembali ke keaadan yg kita inginkan
-    $ git checkout 5 digit -- <file (s)> mengembalikan ke keaadan file saja
-10. $ git branch untuk menampilkan branch apa saja
+1.  pwd untuk melihat ada di folder mana kita di console
+2.  ls /list melihat isi list sama seperti dir di cmd
+3.  $ git init
+4.  $ git add <file (s)>
+5.  $ git status
+6.  $ git commit
+	 jika lupa nulis title ketik"<esc>->:q!"
+7.  $ git config
+8.  $ git branch
+9.  $ git help 
+10. $ git config
+================================================================================================= 
+    $ git config --global user.name
+    $ git config --global user.email
+11. $ git branch
+==================================================================================================
+    $ git branch untuk menampilkan branch apa saja
     $ git branch <nama branch> untuk membuat branch baru
-11. $ git log (histori git kita)
+12. $ git log
+==================================================================================================
+    $ git log (histori git kita)
     $ git log -3 (histori 3 terakhir)
     $ git -- <file (s)> (histori file di git)
-    ==========================================
+      ==========================================
     $ git log --all --decorate --oneline --graph untuk melihat flow branch dengan graph
-12. $ git alias untuk mengalias kode atau string
+13. $ git alias
+==================================================================================================
+    $ git alias untuk mengalias kode atau string
 	$ git alias <nama alias>="<kode yang mau di alisasi>"
+14.	$ git checkout
+===================================================================================================
+	$ git checkout <nama branch> untuk masuk ke branch yang kita inginkan
+	  ==========================================================================
+    $ git checkout untuk mengembalikan file yang dihapus atau di update ke keadaan yang di inginkan
+    $ git checkout 5 digit pertama dari commit hash untuk kembali ke keaadan yg kita inginkan
+    $ git checkout 5 digit -- <file (s)> mengembalikan ke keaadan file saja
+15. $ git merge
+====================================================================================================
