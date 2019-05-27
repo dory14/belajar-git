@@ -36,6 +36,12 @@ pertemuan 2
     $ git checkout untuk mengembalikan file yang dihapus atau di update ke keadaan yang di inginkan
     $ git checkout 5 digit pertama dari commit hash untuk kembali ke keaadan yg kita inginkan
     $ git checkout 5 digit -- <file (s)> mengembalikan ke keaadan file saja
+      ==========================================================================
+    untuk kembali kekeaadan yang lalu dan kita masukan ke keaddan yang baru
+    $ git checkout 5 digit pertama dari hash
+    $ git branch <nama branch>
+    $ git checkout nama branch
+    tinggal di commit
 15. $ git merge
 ====================================================================================================
 	1. fast forward marge direct fast langsung di merge tanpa ada hambatan karena berda di alur langsung
