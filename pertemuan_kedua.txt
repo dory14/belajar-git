@@ -11,9 +11,15 @@ pertemuan 2
 7. $ git help 
 8. $ git config --global user.name
    $ git config --global user.email
-9. $ git log (histori git kita)
-   $ git log -3 (histori 3 terakhir)
-   $ git -- <file (s)> (histori file di git)
-10. $ git checkout untuk mengembalikan file yang dihapus atau di update ke keadaan yang di inginkan
+9. $ git checkout untuk mengembalikan file yang dihapus atau di update ke keadaan yang di inginkan
     $ git checkout 5 digit pertama dari commit hash untuk kembali ke keaadan yg kita inginkan
     $ git checkout 5 digit -- <file (s)> mengembalikan ke keaadan file saja
+10. $ git branch untuk menampilkan branch apa saja
+    $ git branch <nama branch> untuk membuat branch baru
+11. $ git log (histori git kita)
+    $ git log -3 (histori 3 terakhir)
+    $ git -- <file (s)> (histori file di git)
+    ==========================================
+    $ git log --all --decorate --oneline --graph untuk melihat flow branch dengan graph
+12. $ git alias untuk mengalias kode atau string
+	$ git alias <nama alias>="<kode yang mau di alisasi>"
